@@ -1,5 +1,5 @@
 [package]
-name = "orca-public-api-client"
+name = "api-orca-so-rs"
 version = "0.1.0"
 edition = "2021"
 

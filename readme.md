@@ -1,6 +1,6 @@
 # orca public api client
 
-a rust client library for the orca public api.
+a rust client library for the orca public api at api.orca.so. you can find their docs [on their documentation website.](https://api.orca.so/docs)
 
 ## usage
 
@@ -21,5 +21,5 @@ add the following to your `cargo.toml` file:
 
 ```toml
 [dependencies]
-orca-public-api-client = { git = "https://github.com/user/orca-public-api-client" }
+api-orca-so-rs = { git = "https://github.com/AzothZephyr/api-orca-so-rs" }
 ```
